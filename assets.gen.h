@@ -8,3 +8,17 @@
 
 extern Sifteo::AssetGroup IconAssets;
 extern const Sifteo::AssetImage Icon;
+extern Sifteo::AssetGroup BetterflowAssets;
+extern const Sifteo::AssetImage redgeneconnect;
+extern const Sifteo::AssetImage LabelEmpty;
+extern const Sifteo::AssetImage plasmid;
+extern const Sifteo::AssetImage plasmidfillred1;
+extern const Sifteo::AssetImage plasmidfillred2;
+extern const Sifteo::AssetImage plasmidfillred4;
+extern const Sifteo::PinnedAssetImage BgTile;
+extern const Sifteo::AssetImage redgene;
+extern const Sifteo::AssetImage Tip1;
+extern const Sifteo::AssetImage Tip2;
+extern const Sifteo::AssetImage Footer;
+extern const Sifteo::AssetImage plasmidfillred3;
+extern const Sifteo::AssetImage Tip0;

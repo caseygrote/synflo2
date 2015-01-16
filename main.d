@@ -38,7 +38,13 @@ main.o: main.cpp \
   C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/video/bg1.h \
   C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/video/bg2.h \
   C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/video/tilebuffer.h \
-  assets.gen.h
+  C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu.h \
+  C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/types.h \
+  C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/util.h \
+  C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/public.h \
+  C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/states.h \
+  C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/events.h \
+  assets.gen.h node.h
 
 C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo.h:
 
@@ -118,4 +124,18 @@ C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/v
 
 C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/video/tilebuffer.h:
 
+C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu.h:
+
+C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/types.h:
+
+C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/util.h:
+
+C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/public.h:
+
+C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/states.h:
+
+C:\Users\cgrote\Desktop\sifteo-sdk-windows-v1.1.0-371-gaf55784\/include\sifteo/menu/events.h:
+
 assets.gen.h:
+
+node.h:
