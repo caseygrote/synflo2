@@ -56,7 +56,7 @@ static unsigned shakecount=0;
 
 static Metadata M = Metadata()
 .title("helo")
-.package("com.sifteo.sdk.menuhello", "1.0.0")
+.package("com.sifteo.sdk.synflo", "1.0.0")
 .icon(Icon)
 .cubeRange(gNumCubes);
 
